@@ -80,12 +80,12 @@ class Nav extends Component {
           >
             Info
           </div>
-          <div
+          {/* <div
             className="menu__item"
             onClick={(e) => this.scrollToPage('.portfolio-page')}
           >
             Portfolio
-          </div>
+          </div> */}
         </div>
       </nav>
     );
